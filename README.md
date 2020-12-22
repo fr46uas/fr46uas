@@ -1,6 +1,6 @@
 ### Hola, soy Sergio Fraguas 👋
 
-Soy Frontend Developer aunque dentro de mi hay todo un Full Stack. Me encanta investigar, probar y aprender cosas nuevas. Ahora mismo estoy aprendiendo a desarrollar videojuegos en 2D con Unity.
+Soy Frontend Developer aunque dentro de mi hay un pequeño Full Stack. Me encanta investigar, probar y aprender cosas nuevas. Ahora mismo estoy aprendiendo a desarrollar videojuegos en 2D con Unity.
  
   - :computer: Actualmente trabajo en MnEMO como Frontend Developer para Ibermutua.
   - :hammer: Trabajo sobre todo con JS y Angular, pero me estoy aficionando a React.
