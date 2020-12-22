@@ -7,7 +7,7 @@ Soy Frontend Developer aunque dentro de mi hay un pequeño Full Stack. Me encant
   - :video_game: Uno de mis grandes hobbies son los videojuegos.
   - :briefcase: Puedes saber mas de mi en [Linkedin](https://www.linkedin.com/in/sergio-fraguas-1a8855131/)
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fr46uas&show_icons=true&theme=dark)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fr46uas&show_icons=true&theme=highcontrast)
   
   
 
