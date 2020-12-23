@@ -1,4 +1,4 @@
-### Hola, soy Sergio Fraguas 👋
+### Hola, soy Sergio 👋
 
 Soy Frontend Developer aunque dentro de mi hay un pequeño Full Stack. Me encanta investigar, probar y aprender cosas nuevas. Ahora mismo estoy aprendiendo a desarrollar videojuegos en 2D con Unity.
  
